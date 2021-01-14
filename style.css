@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    padding: 0;
+}
 .top{
     background: linear-gradient(180deg, #FFFBF0, white)
 }
@@ -94,9 +98,9 @@ p{
 .last-unit{
     margin: 2em;    
 }
-.last-section{
+/* .last-section{
     padding: 100px;
-}
+} */
 .my-banner-backgroung{
     background: linear-gradient(180deg, white, #FFFBF0)
 }
