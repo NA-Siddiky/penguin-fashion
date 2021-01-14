@@ -1,5 +1,5 @@
 .top{
-    background-color: #FFFBF0;
+    background: linear-gradient(180deg, #FFFBF0, white)
 }
 h1{
     font-size: 5em;
@@ -26,7 +26,7 @@ h1{
     padding-left: 7em;
 }
 .my-nav{
-    background-color: #FFFBF0;
+    background: linear-gradient(180deg, #FFFBF0, white)
 }
 /* .product{
     border: 1px solid red;
@@ -47,8 +47,8 @@ h1{
 .sub-button{
     background-color: #8DA724;
     font-size: 14px;
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
     color: white;
 }
 
@@ -93,11 +93,13 @@ h1{
     padding: 100px;
 }
 .my-banner-backgroung{
-    background-color: #FFFBF0;
+    background: linear-gradient(180deg, white, #FFFBF0)
 }
 .footer-container{
 max-width: 100%;
 margin: 0 auto;
-padding: 30px;
+padding: 20px;
 background-color: #FFFBF0;
 }
+
+
