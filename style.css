@@ -5,6 +5,13 @@ h1{
     font-size: 5em;
     font-weight: 700;
 }
+h2{
+    font-size: 3em;
+    font-weight: 500;
+}
+p{
+    font-size: 19px;
+}
 .name-highlight{
     color: #FABE4C;
 }
@@ -64,7 +71,7 @@ h1{
     height: 100%;
 }
 .last-frame{
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
     overflow: hidden;
 }
@@ -99,5 +106,7 @@ margin: 0 auto;
 padding: 20px;
 background-color: #FFFBF0;
 }
-
+/* .test-border{
+    border: 3px solid black;
+} */
 
