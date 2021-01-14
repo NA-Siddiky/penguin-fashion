@@ -9,7 +9,7 @@ h1{
     color: #FABE4C;
 }
 .container{
-    /* border: 1px solid blue; */
+    border: 1px solid blue;
     max-width: 100%;
     
 }
@@ -24,9 +24,33 @@ h1{
     margin: 0 auto;
     padding-left: 7em;
 }
+.product{
+    border: 1px solid red;
+
+}
+.product-container{
+    max-width: 90%;
+    margin: 5em;
+    padding: 5em;
+}
+
 .my-button{
     background-color: #8DA724;
     font-size: 20px;
     padding: 20px;
     color: white;
+}
+
+.photo-frame{
+    width: 96%;
+    height: 450px;
+    background-color: #F1F1F1;
+    border-radius: 25px;
+    position: relative;
+    margin: 10px;
+    overflow: hidden;
+}
+.photo img{
+    width: 100%;
+    height: 100%;
 }
