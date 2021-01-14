@@ -9,7 +9,7 @@ h1{
     color: #FABE4C;
 }
 .container{
-    border: 1px solid blue;
+    /* border: 1px solid blue; */
     max-width: 100%;
     
 }
@@ -18,16 +18,20 @@ h1{
     margin: 0 auto;
     padding-left: 10em;
     padding-right: 25em;
+    margin-top: 70px;
 }
 .nav-container{
     max-width: 100%;
     margin: 0 auto;
     padding-left: 7em;
 }
-.product{
+.my-nav{
+    background-color: #FFFBF0;
+}
+/* .product{
     border: 1px solid red;
 
-}
+} */
 .product-container{
     max-width: 90%;
     margin: 5em;
@@ -38,6 +42,13 @@ h1{
     background-color: #8DA724;
     font-size: 20px;
     padding: 20px;
+    color: white;
+}
+.sub-button{
+    background-color: #8DA724;
+    font-size: 14px;
+    padding-left: 15px;
+    padding-right: 15px;
     color: white;
 }
 
@@ -56,8 +67,7 @@ h1{
 }
 .last-frame{
     width: 40%;
-    background-color: #F1F1F1;
-    margin: 6em;
+    margin: 0 auto;
     overflow: hidden;
 }
 .last img{
@@ -66,19 +76,28 @@ h1{
 /* .lower-section{
     background-color: yellow;
 } */
-/* .last-container{
-    margin: 10em;
-
-
-} */
+.last-container{
+    /* border: 1px solid black; */
+    margin: 0 auto;
+    max-width: 90%;
+}
 .last-left{
     width: 5em;
-    margin-left: 5em;
-    margin-right: 5em;
+    margin-left: 2em;
+    margin-right: 2em;
 }
 .last-unit{
     margin: 2em;    
 }
 .last-section{
     padding: 100px;
+}
+.my-banner-backgroung{
+    background-color: #FFFBF0;
+}
+.footer-container{
+max-width: 100%;
+margin: 0 auto;
+padding: 30px;
+background-color: #FFFBF0;
 }
